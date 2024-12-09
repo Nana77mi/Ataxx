@@ -281,10 +281,10 @@ class GUI extends JFrame implements View, CommandSource, Reporter {
             "-"
     );
 
-    private final String RED_PATH = "src/img/red.jpg";
-    private final String BLUE_PATH = "src/img/blue.jpg";
-    private final String EMPTY_PATH = "src/img/empty.png";
-    private final String BLOCK_PATH = "src/img/block.png";
+    private final String RED_PATH = "src/main/java/img/red.jpg";
+    private final String BLUE_PATH = "src/main/java/img/blue.jpg";
+    private final String EMPTY_PATH = "src/main/java/img/empty.png";
+    private final String BLOCK_PATH = "src/main/java/img/block.png";
 
     private final int LEFT_MARGIN = 0;
     private final int UP_MARGIN = 150;
